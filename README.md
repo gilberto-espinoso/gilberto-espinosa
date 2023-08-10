@@ -3,7 +3,7 @@
 Profissional em transição de carreira, entusiasta na programação back-end, adquirindo conhecimento em Java e disposto a compartilhar conhecimento.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilbertoespns/)
-[![gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilberto.espinoso@gmail.com)
+
 
 
 
