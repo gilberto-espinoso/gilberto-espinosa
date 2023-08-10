@@ -7,7 +7,7 @@ Profissional em transição de carreira, entusiasta na programação back-end, a
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilbertosespinoso&show_icons=true&icon_color=228B22&theme=chartreuse-dark&hide_title=true&bg_color=1C1C1C)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertosespinoso&hide_progress=false&theme=chartreuse-dark&hide_title=true&text_color=228B22&bg_color=1C1C1C)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertosespinoso&layout=compact&theme=chartreuse-dark&text_color=228B22&bg_color=1C1C1C)
 </br>
 
 ### Tecnologias que utilizo
