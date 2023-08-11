@@ -6,8 +6,8 @@ Profissional em transição de carreira, entusiasta na programação back-end, a
 [![Markdown](https://img.shields.io/badge/Meu_Perfil_DIO-1C1C1C?style=for-the-badge&)](https://web.dio.me/users/gilberto_espinoso?tab=skills)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilbertosespinoso&show_icons=true&icon_color=228B22&theme=chartreuse-dark&hide_title=true&bg_color=1C1C1C)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertosespinoso&layout=compact&theme=chartreuse-dark&text_color=228B22&bg_color=1C1C1C)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilbertosespinoso&show_icons=true&icon_color=228B22&theme=chartreuse-dark&hide_title=true&bg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertosespinoso&layout=compact&theme=chartreuse-dark&text_color=228B22&bg)
 </br>
 
 ### Tecnologias que utilizo
