@@ -1,6 +1,5 @@
 
-## Olá! Eu sou o Gilberto Silva Espinoso 🖖
-Entusiasta na programação back-end, adquirindo conhecimento em Java e disposto a compartilhar conhecimento.
+## Olá! 🖖
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=228B22)](https://www.linkedin.com/in/gilbertoespns/)
 [![Markdown](https://img.shields.io/badge/Meu_Perfil_DIO-1C1C1C?style=for-the-badge&)](https://web.dio.me/users/gilberto_espinoso?tab=skills)
