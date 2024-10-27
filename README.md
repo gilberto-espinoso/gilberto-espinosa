@@ -1,5 +1,3 @@
-
-
 ### Tecnologias que utilizo
 
 ![nextjs](https://img.shields.io/badge/nextjs-1C1C1C?style=for-the-badge&logo=next.js)
