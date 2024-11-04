@@ -17,7 +17,7 @@
 
 **Outros conhecimentos**
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-333333?style=flat-the-badge&logo=openjdk&logoColor=ED8B00)
 ![Spring](https://img.shields.io/badge/-Spring_boot-333333?style=flat&logo=Spring&logoColor=00FF00)
 ![Graphql](https://img.shields.io/badge/-GraphQl-333333?style=flat&logo=Graphql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
